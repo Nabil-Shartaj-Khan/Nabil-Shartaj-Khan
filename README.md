@@ -1,109 +1,122 @@
 # 👋 Hey, I'm Nabil Shartaj Khan
 
-### Full-Stack Software Engineer | Cybersecurity Enthusiast | Master's Student
+### Full-Stack Software Engineer • Cybersecurity Enthusiast • Master's Student
 
-I'm a **Full-Stack Software Engineer** with a strong interest in **Cybersecurity** and building secure, scalable applications.
+I'm a **Full-Stack Software Engineer** who enjoys building web applications, backend systems, APIs, and secure software.
 
-My background is primarily in software engineering and full-stack development, and I'm currently expanding deeper into **Cybersecurity, Purple Teaming, Web Application Security, and Secure Software Development**.
+Alongside software engineering, I'm expanding deeper into **Cybersecurity**, particularly **Purple Teaming, Web Application Security, vulnerability testing, and defensive security**.
 
-> **Building software taught me how applications work. Cybersecurity is teaching me how they break — and how to build them better.**
-
----
-
-## 💫 About Me
-
-🔭 **Currently working on:** Full-stack projects and cybersecurity research, with a growing focus on offensive and defensive security.
-
-🛡️ **Currently learning:** Cybersecurity and Purple Teaming, exploring both offensive techniques and defensive security.
-
-🤝 **Looking to collaborate on:** Open-source projects, web applications, cybersecurity tools, and security-focused software.
-
-💻 **Ask me about:** React, Next.js, Node.js, Express.js, Spring Boot, REST APIs, authentication, databases, and software engineering.
-
-🔐 **Security interests:** Web Application Security, Ethical Hacking, WAFs, Vulnerability Testing, System Design, and Cloud Technologies.
-
-🎓 **Education:** Currently pursuing a **Master of Computing (Cyber Security)** at **Curtin University**.
-
-⚽ **Football:** Proud Arsenal supporter. I can probably talk about football longer than I can talk about code.
-
-🎮 **Outside tech:** Football, gaming, and a good TV series.
-
-⚡ **Fun fact:** Debugging production code might actually be less stressful than watching Arsenal defend a one-goal lead. 😅
+> 💡 **Building software taught me how applications work. Cybersecurity is teaching me how they break — and how to build them better.**
 
 ---
 
-## 🚀 Currently Exploring
+## 💫 A Little About Me
 
-`Cybersecurity` • `Purple Teaming` • `Web Security` • `System Design` • `Cloud` • `Full-Stack Development` • `Secure Software Engineering`
+🔭 **Working on** — Full-stack applications & cybersecurity research  
+🛡️ **Learning** — Purple Teaming, offensive & defensive security  
+🤝 **Open to** — Open-source, web development & cybersecurity collaborations  
+💻 **Ask me about** — React, Next.js, Node.js, Spring Boot, APIs & software engineering  
+🔐 **Interested in** — Web Security, WAFs, Ethical Hacking, System Design & Cloud  
+🎓 **Studying** — Master of Computing (**Cyber Security**) at **Curtin University**
 
----
+And when I'm away from the keyboard...
 
-# 💻 Tech Stack
-
-## 👨‍💻 Languages & Scripting
-
-`JavaScript` • `Java` • `Python` • `PHP` • `Bash` • `PowerShell`
-
-## 🎨 Frontend
-
-`React.js` • `Next.js` • `Redux` • `React Query` • `React Hook Form` • `React Router`  
-`HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `Material UI` • `Chakra UI`
-
-## ⚙️ Backend
-
-`Node.js` • `Express.js` • `Spring Boot` • `Socket.io` • `Django` • `FastAPI`  
-`JWT` • `REST APIs`
-
-## 🗄️ Databases & Caching
-
-`PostgreSQL` • `MySQL` • `MongoDB` • `MariaDB` • `Microsoft SQL Server` • `Redis`
-
-## 🛡️ Cybersecurity
-
-**Web & Application Security**  
-`OWASP` • `ModSecurity` • `OWASP CRS` • `Web Application Firewalls` • `Authentication Security`
-
-**Security Testing**  
-`Burp Suite` • `OWASP ZAP` • `Nmap` • `SQLMap` • `Nikto`
-
-**Network & Analysis**  
-`Wireshark` • `Linux` • `Kali Linux` • `Apache`
-
-**Currently Exploring**  
-`Purple Teaming` • `Offensive Security` • `Defensive Security` • `Vulnerability Assessment`
-
-## 🔧 DevOps & Development Tools
-
-`Git` • `GitHub` • `GitLab` • `Bitbucket`  
-`GitHub Actions` • `GitLab CI/CD` • `Jenkins` • `Docker`  
-`Maven` • `Gradle` • `Jest` • `Postman` • `Jira` • `Prettier`
-
-## ☁️ Deployment & Hosting
-
-`Vercel` • `Netlify`
-
-## 🎨 Design & Other Tools
-
-`Figma` • `Canva` • `Windows Terminal`
+⚽ Lifelong football fan and proud **Arsenal supporter**  
+🎮 Gaming and good TV series are usually my way of switching off  
+😅 Debugging production code may genuinely be less stressful than watching Arsenal defend a one-goal lead.
 
 ---
 
-# 📊 GitHub Stats
+## 🎯 Current Focus
 
-**GitHub Stats** • **Contribution Streak** • **Most Used Languages**
-
----
-
-## 🌐 Connect With Me
-
-💼 **LinkedIn:** Nabil Shartaj Khan  
-📘 **Facebook:** Nabil Shartaj Khan  
-📧 **Email:** shartajnabil@gmail.com
+| 🛡️ Cybersecurity | 💻 Engineering | ☁️ Infrastructure |
+| :--- | :--- | :--- |
+| Purple Teaming | Full-Stack Development | Cloud Technologies |
+| Web Security | Secure Software | System Design |
+| Vulnerability Testing | Backend Engineering | CI/CD |
+| WAF Research | REST APIs | Docker |
 
 ---
 
-## 👀 Profile
+# 🧰 Tech Toolbox
 
-**Software Engineering** • **Cybersecurity** • **Football** • **Arsenal ⚽**
+Rather than listing everything I've ever touched, here's a snapshot of the technologies and tools I work with.
 
-> *"Building software taught me how applications work. Cybersecurity is teaching me how they break — and how to build them better."*
+### 👨‍💻 Languages
+
+`JavaScript`　`Java`　`Python`　`PHP`　`Bash`　`PowerShell`
+
+### 🎨 Frontend
+
+`React.js`　`Next.js`　`Redux`　`React Query`　`React Router`  
+`HTML5`　`CSS3`　`Tailwind CSS`　`Bootstrap`　`Material UI`　`Chakra UI`
+
+### ⚙️ Backend & APIs
+
+`Node.js`　`Express.js`　`Spring Boot`　`Socket.io`  
+`Django`　`FastAPI`　`JWT`　`REST APIs`
+
+### 🗄️ Data
+
+`PostgreSQL`　`MySQL`　`MongoDB`　`MariaDB`　`SQL Server`　`Redis`
+
+---
+
+## 🛡️ Cybersecurity Toolbox
+
+### 🌐 Web & Application Security
+
+`OWASP`　`ModSecurity`　`OWASP CRS`　`Web Application Firewalls`
+
+### 🔍 Security Testing
+
+`Burp Suite`　`OWASP ZAP`　`Nmap`　`SQLMap`　`Nikto`
+
+### 📡 Network & Analysis
+
+`Wireshark`　`Kali Linux`　`Linux`　`Apache`
+
+### 🟣 Security Areas I'm Exploring
+
+`Purple Teaming`　`Offensive Security`　`Defensive Security`　`Vulnerability Assessment`
+
+---
+
+## 🛠️ DevOps & Tools
+
+**Version Control**  
+`Git`　`GitHub`　`GitLab`　`Bitbucket`
+
+**CI/CD & Infrastructure**  
+`GitHub Actions`　`GitLab CI/CD`　`Jenkins`　`Docker`
+
+**Development**  
+`Postman`　`Jira`　`Jest`　`Maven`　`Gradle`　`Prettier`
+
+**Deployment**  
+`Vercel`　`Netlify`
+
+**Design & Other**  
+`Figma`　`Canva`　`Windows Terminal`
+
+---
+
+## 🌐 Let's Connect
+
+I'm always happy to connect with people interested in **software engineering, cybersecurity, web development, or tech in general**.
+
+💼 **LinkedIn** → [linkedin.com/in/nabil-shartaj-khan-6b1341252](https://www.linkedin.com/in/nabil-shartaj-khan-6b1341252/)
+
+📘 **Facebook** → [facebook.com/Nsk.HoundWolf](https://www.facebook.com/Nsk.HoundWolf)
+
+📧 **Email** → [shartajnabil@gmail.com](mailto:shartajnabil@gmail.com)
+
+---
+
+<div align="center">
+
+### ⚽ Code • Cybersecurity • Arsenal
+
+**Thanks for stopping by! 👋**
+
+</div>
