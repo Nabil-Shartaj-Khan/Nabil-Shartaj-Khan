@@ -2,40 +2,25 @@
 
 ### 💻 Full-Stack Software Engineer • 🛡️ Cybersecurity • 🎓 Master's Student
 
-I enjoy building web applications, backend systems, APIs, and secure software.
+I'm a **Full-Stack Software Engineer** who enjoys building web applications, backend systems, APIs, and secure software.
 
-Alongside software engineering, I'm completing a **Master of Computing (Cyber Security)** and developing hands-on experience in **Application Security, penetration testing, vulnerability assessment, and defensive security**.
-
-My current cybersecurity work includes **web application security testing and open-source Web Application Firewall (WAF) research**, while I'm also expanding into **Purple Teaming, detection engineering, DFIR, and incident response**.
+I'm currently completing a **Master of Computing (Cyber Security)** at **Curtin University**, combining my software engineering background with **Application Security, penetration testing, vulnerability assessment, and defensive security**.
 
 ---
 
-## 💫 A Little About Me
+## 💫 About Me
 
 🔭 **Working on** — Full-stack applications, cybersecurity research & a Purple Team security lab  
-🛡️ **Learning** — Purple Teaming, Application Security, offensive & defensive security  
-🤝 **Open to** — Open-source, software engineering & cybersecurity collaborations  
+🛡️ **Exploring** — Purple Teaming, offensive & defensive security, DFIR & detection engineering  
+🤝 **Open to** — Software engineering, cybersecurity & open-source collaborations  
 💻 **Ask me about** — React, Next.js, Node.js, Spring Boot, APIs & full-stack development  
-🔐 **Interested in** — Web Security, Purple Teaming, Secure Software Development, System Design & Cloud  
-🎓 **Studying** — Master of Computing (**Cyber Security**) at **Curtin University**
+🔐 **Interested in** — Application Security, Secure Software Development, System Design & Cloud  
 
-And when I'm away from the keyboard...
+When I'm away from the keyboard...
 
-⚽ Lifelong football fan and proud **Arsenal supporter**  
+⚽ Proud **Arsenal supporter**  
 🎮 Gaming and a good TV series are usually my way of switching off  
 😅 Debugging production code may genuinely be less stressful than watching Arsenal defend a one-goal lead.
-
----
-
-## 🎯 Current Focus
-
-| 🛡️ Cybersecurity | 💻 Software Engineering | ☁️ Infrastructure |
-| :--- | :--- | :--- |
-| Application Security | Full-Stack Development | Cloud Technologies |
-| Purple Teaming | Backend Engineering | System Design |
-| Penetration Testing | Secure Software Development | CI/CD |
-| Vulnerability Assessment | REST APIs | Docker |
-| WAF Research | Microservices | Linux |
 
 ---
 
@@ -48,34 +33,30 @@ And when I'm away from the keyboard...
 ### 🎨 Frontend
 
 `React.js` `Next.js` `Redux` `React Query` `React Router`  
-`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Material UI`  
-`Progressive Web Apps (PWA)` `Responsive Design`
+`Tailwind CSS` `Bootstrap` `Material UI` `HTML5` `CSS3` `PWA`
 
 ### ⚙️ Backend & APIs
 
 `Node.js` `Express.js` `Spring Boot` `PHP` `Socket.io`  
-`REST APIs` `CRUD Operations` `Microservices Architecture`
+`REST APIs` `Microservices` `JWT` `OAuth 2.0`
 
 ### 🗄️ Databases
 
 `PostgreSQL` `MySQL` `MongoDB` `Redis`
 
-### 🔐 Authentication & Application Security
+### ⚙️ DevOps & Tools
 
-`JWT` `OAuth 2.0` `Passport.js`  
-`Session-Based Authentication` `CSRF Protection`  
-`Secure API Development`
+`Git` `GitHub` `GitLab` `Docker` `GitHub Actions` `GitLab CI/CD`  
+`Postman` `Jira` `Jest` `Maven` `Vercel` `Linux`
 
 ---
 
 # 🛡️ Cybersecurity
 
-Alongside software engineering, I'm developing hands-on experience in **Cybersecurity and Application Security**, with a particular focus on understanding how applications are attacked, tested, and defended.
-
 ### 🌐 Application & Web Security
 
 `OWASP Top 10` `Web Application Security`  
-`Open-Source Web Application Firewalls (WAFs)`
+`Open-Source Web Application Firewalls (WAFs)` `Secure Software Development`
 
 ### ⚔️ Security Testing
 
@@ -88,117 +69,40 @@ Alongside software engineering, I'm developing hands-on experience in **Cybersec
 `Burp Suite` `OWASP ZAP` `Nmap` `SQLMap` `Nikto`  
 `Wireshark` `Kali Linux`
 
-### 🟣 Areas I'm Exploring
+### 🟣 Growing Into
 
 `Purple Teaming` `Offensive Security` `Defensive Security`  
-`Detection Engineering` `DFIR` `Intrusion Detection`  
-`Incident Response` `Secure Software Development`
+`Detection Engineering` `DFIR` `Intrusion Detection` `Incident Response`
 
 ---
 
-# 🛠️ DevOps & Development Tools
+# 🚀 Featured Security Work
 
-### 🔀 Version Control
+## 🛡️ Open-Source WAF Security Research
 
-`Git` `GitHub` `GitLab` `Bitbucket`
+Researching and comparing **open-source Web Application Firewalls** against common web application attacks.
 
-### 🔄 CI/CD & Infrastructure
+Built custom **Python and Bash security testing scripts**, analysed HTTP responses, security alerts and WAF behaviour, and compared detection and blocking behaviour across multiple WAF implementations.
 
-`GitHub Actions` `GitLab CI/CD` `Jenkins` `Docker`
-
-### 🧪 Development
-
-`Postman` `Jira` `Jest` `Maven` `Gradle` `Prettier`
-
-### 🚀 Deployment
-
-`Vercel` `Netlify` `Web Hosting`
-
-### 🎨 Design & Other
-
-`Figma` `Canva` `Windows Terminal`
+**Stack:** `Python` `Bash` `OWASP` `Kali Linux` `Ubuntu` `Apache` `DVWA`
 
 ---
-
-# 🚀 Featured Work
-
-## 🛡️ Open-Source Web Application Firewall Research
-
-Comparative security research and vulnerability testing of **open-source Web Application Firewalls (WAFs)**.
-
-### 🔬 Research Focus
-
-- Evaluated WAF detection and blocking behaviour
-- Tested server-side and client-side web application attacks
-- Analysed security rules, alerts, logs, and HTTP responses
-- Compared defensive behaviour across multiple WAF implementations
-- Investigated protection against common web application vulnerabilities
-
-### 🧪 Research & Testing
-
-- Built custom **Python and Bash security testing scripts**
-- Generated and tested attack payloads against protected web applications
-- Analysed **HTTP requests, responses, and WAF behaviour**
-- Investigated triggered security rules and alerts
-- Compared detection and blocking behaviour across WAF implementations
-- Conducted testing inside isolated **Kali Linux and Ubuntu lab environments**
-
-### 🧰 Research Stack
-
-`Python` `Bash` `Open-Source WAFs` `OWASP`  
-`Kali Linux` `Ubuntu` `Apache` `DVWA` `curl`
-
----
-
-# 🔭 Currently Working On
 
 ## 🟣 End-to-End Purple Team Security Lab
 
-I'm currently designing and building a hands-on **Purple Team security lab** to explore the complete attack-to-detection-and-response lifecycle.
+Currently designing and building a hands-on **Purple Team security lab** focused on the complete attack-to-detection-and-response lifecycle.
 
-The planned lab will bring together:
+The planned environment brings together:
 
-`Penetration Testing` `IDS / Network Monitoring` `SIEM`  
-`Endpoint Detection` `Detection Engineering` `DFIR`  
-`MITRE ATT&CK` `Incident Response`
+**Penetration Testing → Network Monitoring → SIEM → Endpoint Detection → Detection Engineering → DFIR → MITRE ATT&CK → Incident Response**
 
-The goal is to perform controlled attacks in an isolated environment, capture the resulting network and endpoint telemetry, develop detections, investigate the evidence, and document the complete incident lifecycle.
-
-### 🗺️ Planned Lab Areas
-
-| Domain | Focus |
-| :--- | :--- |
-| 🔴 Penetration Testing | Reconnaissance, enumeration, vulnerability identification & controlled exploitation |
-| 🌐 IDS / Network Security | Traffic monitoring, alert generation & packet analysis |
-| 📊 SIEM / SOC | Centralised logging, correlation, alerting & investigation |
-| 🖥️ Endpoint Detection | Windows/Linux telemetry & suspicious activity detection |
-| 🎯 Detection Engineering | Creating, testing & tuning security detections |
-| 🔎 DFIR | Evidence collection, log/PCAP analysis & attack timeline reconstruction |
-| 🧠 Threat Mapping | Mapping attacker behaviour and detections to MITRE ATT&CK |
-| 🚨 Incident Response | Findings, evidence, root cause, impact & remediation |
-
-> 🚧 **Status:** Currently in the planning and development stage.
-
----
-
-# 💡 What I'm Currently Learning
-
-I'm continuing to expand my knowledge across both **software engineering and cybersecurity**, with a focus on:
-
-- 🟣 Purple Teaming
-- 🔐 Application Security
-- ⚔️ Offensive Security
-- 🔵 Defensive Security
-- 🎯 Detection Engineering
-- 🔎 DFIR & Incident Response
-- 🏗️ System Design
-- 🔒 Secure Software Development
+> 🚧 **Status:** Planning & development
 
 ---
 
 # 🌐 Let's Connect
 
-I'm always happy to connect with people interested in **software engineering, cybersecurity, web development, application security, or tech in general**.
+I'm always happy to connect with people interested in **software engineering, cybersecurity, application security, or building interesting things with technology**.
 
 💼 **LinkedIn** → [linkedin.com/in/nabil-shartaj-khan-6b1341252](https://www.linkedin.com/in/nabil-shartaj-khan-6b1341252/)
 
@@ -210,7 +114,7 @@ I'm always happy to connect with people interested in **software engineering, cy
 
 <div align="center">
 
-### ⚽ Code • Cybersecurity • Arsenal
+### 💻 Code • 🛡️ Cybersecurity • ⚽ Arsenal
 
 **London is Red ❤️**
 
