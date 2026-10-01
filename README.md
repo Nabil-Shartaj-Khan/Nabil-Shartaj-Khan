@@ -6,7 +6,6 @@ I'm a **Full-Stack Software Engineer** who enjoys building web applications, bac
 
 Alongside software engineering, I'm expanding deeper into **Cybersecurity**, particularly **Purple Teaming, Web Application Security, vulnerability testing, and defensive security**.
 
-> 💡 **Building software taught me how applications work. Cybersecurity is teaching me how they break — and how to build them better.**
 
 ---
 
