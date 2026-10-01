@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nabil Shartaj Khan
 
-### 💻 Full-Stack Software Engineer • 🛡️ Cybersecurity • 🎓 Master's Student
+### 💻 Full-Stack Software Engineer • 🛡️ Cybersecurity & Application Security
 
 I'm a **Full-Stack Software Engineer** who enjoys building web applications, backend systems, APIs, and secure software.
 
@@ -20,7 +20,7 @@ When I'm away from the keyboard...
 
 ⚽ Proud **Arsenal supporter**  
 🎮 Gaming and a good TV series are usually my way of switching off  
-😅 Debugging production code may genuinely be less stressful than watching Arsenal defend a one-goal lead.
+😜 Debugging production code may genuinely be less stressful than watching Arsenal defend a one-goal lead.
 
 ---
 
@@ -69,7 +69,7 @@ When I'm away from the keyboard...
 `Burp Suite` `OWASP ZAP` `Nmap` `SQLMap` `Nikto`  
 `Wireshark` `Kali Linux`
 
-### 🟣 Growing Into
+### 🟣 Currently Exploring
 
 `Purple Teaming` `Offensive Security` `Defensive Security`  
 `Detection Engineering` `DFIR` `Intrusion Detection` `Incident Response`
@@ -80,7 +80,7 @@ When I'm away from the keyboard...
 
 ## 🛡️ Open-Source WAF Security Research
 
-Researching and comparing **open-source Web Application Firewalls** against common web application attacks.
+Conducted comparative security research on **open-source Web Application Firewalls (WAFs)** against common web application attacks.
 
 Built custom **Python and Bash security testing scripts**, analysed HTTP responses, security alerts and WAF behaviour, and compared detection and blocking behaviour across multiple WAF implementations.
 
@@ -104,9 +104,9 @@ The planned environment brings together:
 
 I'm always happy to connect with people interested in **software engineering, cybersecurity, application security, or building interesting things with technology**.
 
-💼 **LinkedIn** → [linkedin.com/in/nabil-shartaj-khan-6b1341252](https://www.linkedin.com/in/nabil-shartaj-khan-6b1341252/)
+🌐 **Portfolio** → [nabil-shartaj-khan-portfolio.vercel.app](https://nabil-shartaj-khan-portfolio.vercel.app)
 
-📘 **Facebook** → [facebook.com/Nsk.HoundWolf](https://www.facebook.com/Nsk.HoundWolf)
+💼 **LinkedIn** → [linkedin.com/in/nabil-shartaj-khan-6b1341252](https://www.linkedin.com/in/nabil-shartaj-khan-6b1341252/)
 
 📧 **Email** → [shartajnabil@gmail.com](mailto:shartajnabil@gmail.com)
 
@@ -117,7 +117,5 @@ I'm always happy to connect with people interested in **software engineering, cy
 ### 💻 Code • 🛡️ Cybersecurity • ⚽ Arsenal
 
 **London is Red ❤️**
-
-**Thanks for stopping by! 👋**
 
 </div>
